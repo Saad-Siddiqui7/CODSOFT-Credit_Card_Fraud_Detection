@@ -117,7 +117,7 @@ Random Forest achieved the best overall performance for fraud detection.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Saad-Siddiqui7/CODSOFT-Credit_Card_Fraud_Detection.git>
 ```
 
 Move into the project directory:
